@@ -1,0 +1,67 @@
+:root {
+    --color-primary: #d6d6d6;
+    --color-secundary: #181818;
+    --color--special: #ffffff;
+    --font-size: 22px;
+}
+
+@font-face {
+    font-family: Dosis;
+    src: url(/assets/fonts/Dosis-Medium.ttf);
+}
+
+@font-face {
+    font-family: Montserrat;
+    src: url(/assets/fonts/Montserrat-Medium.ttf);
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    text-decoration: none;
+}
+
+body {
+    font-family: Dosis;
+    font-size: var(--font-size);
+    background-color: var(--color-primary);
+    color: var(--color-secundary);
+}
+
+a {
+    color: inherit;
+}
+
+header {
+    position: fixed;
+    width: 100vw;
+    background-color: var(--color-secundary);
+    color: var(--color-primary);
+    left: 0;
+    top: 0;
+    z-index: 2;
+}
+
+#header__content {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: calc(100% - 40px);
+    margin: 20px;
+}
+
+main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+    margin-top: 70px;
+    width: 100vw;
+}
+
+#logo {
+    display: flex;
+    gap: 10px;
+    font-size: calc(var(--font-size) + 6px);
+}

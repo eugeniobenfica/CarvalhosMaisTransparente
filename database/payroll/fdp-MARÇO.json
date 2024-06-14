@@ -1,0 +1,2342 @@
+[
+    {
+        "name": "ADRIANA DA SILVA NOGUEIRA VILELA",
+        "situation": "Ativo",
+        "role": "SECRETARIA ESCOLAR",
+        "type": "CEF - Efetivo",
+        "date": "MAR\u00c7O",
+        "workload": "40",
+        "paymentType": "Mensal",
+        "wage": "3.217,66"
+    },
+    {
+        "name": "ADRIANA DE CARVALHO TAVARES",
+        "situation": "Ativo",
+        "role": "PROF.1 A 4 ENS.FUND",
+        "type": "CEF - Efetivo",
+        "date": "MAR\u00c7O",
+        "workload": "24",
+        "paymentType": "Mensal",
+        "wage": "4.816,49"
+    },
+    {
+        "name": "ALAISE VILELA DA CUNHA",
+        "situation": "Ativo",
+        "role": "PROF.1 A 4 ENS.FUND",
+        "type": "CEF - Efetivo",
+        "date": "MAR\u00c7O",
+        "workload": "24",
+        "paymentType": "Mensal",
+        "wage": "4.269,34"
+    },
+    {
+        "name": "ALESSANDRA ALVES SIQUEIRA",
+        "situation": "Ativo",
+        "role": "TEC.EM ENFERMAGEM",
+        "type": "CEF - Efetivo",
+        "date": "MAR\u00c7O",
+        "workload": "40",
+        "paymentType": "Mensal",
+        "wage": "2.535,14"
+    },
+    {
+        "name": "ALESSANDRA DA SILVA CAMPOS",
+        "situation": "Ativo",
+        "role": "SECRETARIO(A)",
+        "type": "STP - Servidor tempor\u00e1rio",
+        "date": "MAR\u00c7O",
+        "workload": "40",
+        "paymentType": "Mensal",
+        "wage": "1.948,56"
+    },
+    {
+        "name": "ALINE GONCALVES SOUZA",
+        "situation": "Ativo",
+        "role": "NUTRICIONISTA",
+        "type": "CEF - Efetivo",
+        "date": "MAR\u00c7O",
+        "workload": "40",
+        "paymentType": "Mensal",
+        "wage": "3.509,67"
+    },
+    {
+        "name": "ALINE VILELA DA CUNHA SEPINI",
+        "situation": "Ativo",
+        "role": "ESPECIALISTA EM EDUCACAO",
+        "type": "STP - Servidor tempor\u00e1rio",
+        "date": "MAR\u00c7O",
+        "workload": "40",
+        "paymentType": "Mensal",
+        "wage": "2.765,61"
+    },
+    {
+        "name": "ALISSON SIQUEIRA NOGUEIRA",
+        "situation": "Ativo",
+        "role": "PROF.1 A 4 ENS.FUND",
+        "type": "CEF - Efetivo",
+        "date": "MAR\u00c7O",
+        "workload": "24",
+        "paymentType": "Mensal",
+        "wage": "1.937,97"
+    },
+    {
+        "name": "AMANDA GIANNA CAMILO SOARES",
+        "situation": "Ativo",
+        "role": "SERVENTE ESCOLAR",
+        "type": "STP - Servidor tempor\u00e1rio",
+        "date": "MAR\u00c7O",
+        "workload": "24",
+        "paymentType": "Mensal",
+        "wage": "1.520,27"
+    },
+    {
+        "name": "AMAURI DINIZ AVINCO",
+        "situation": "Inativo/Reformado",
+        "role": "APOSENTADO",
+        "type": "CEF - Efetivo",
+        "date": "MAR\u00c7O",
+        "workload": "0",
+        "paymentType": "Mensal",
+        "wage": "7.358,94"
+    },
+    {
+        "name": "AMELIO DINIZ DA SILVA",
+        "situation": "Ativo",
+        "role": "SERVENTE",
+        "type": "CEF - Efetivo",
+        "date": "MAR\u00c7O",
+        "workload": "40",
+        "paymentType": "Mensal",
+        "wage": "1.641,14"
+    },
+    {
+        "name": "AMERICA DE ANDRADE LADEIRA",
+        "situation": "Ativo",
+        "role": "AGENTE COMUNITARIO DE SAUDE",
+        "type": "STP - Servidor tempor\u00e1rio",
+        "date": "MAR\u00c7O",
+        "workload": "40",
+        "paymentType": "Mensal",
+        "wage": "2.586,31"
+    },
+    {
+        "name": "ANA CLENILDA DE OLIVEIRA",
+        "situation": "Ativo",
+        "role": "SERVENTE ESCOLAR",
+        "type": "CEF - Efetivo",
+        "date": "MAR\u00c7O",
+        "workload": "30",
+        "paymentType": "Mensal",
+        "wage": "1.430,18"
+    },
+    {
+        "name": "ANA MARIA DA SILVA",
+        "situation": "Ativo",
+        "role": "PROF.1 A 4 ENS.FUND",
+        "type": "CEF - Efetivo",
+        "date": "MAR\u00c7O",
+        "workload": "24",
+        "paymentType": "Mensal",
+        "wage": "4.291,10"
+    },
+    {
+        "name": "ANA MARIA DA SILVA",
+        "situation": "Inativo/Reformado",
+        "role": "APOSENTADO",
+        "type": "CEF - Efetivo",
+        "date": "MAR\u00c7O",
+        "workload": "0",
+        "paymentType": "Mensal",
+        "wage": "1.842,01"
+    },
+    {
+        "name": "ANA MARIA DINIZ PIRES",
+        "situation": "Ativo",
+        "role": "PROF.1 A 4 ENS.FUND",
+        "type": "CEF - Efetivo",
+        "date": "MAR\u00c7O",
+        "workload": "24",
+        "paymentType": "Mensal",
+        "wage": "3.709,24"
+    },
+    {
+        "name": "ANDRE SARAIVA CUNHA",
+        "situation": "Ativo",
+        "role": "FISIOTERAPEUTA",
+        "type": "CEF - Efetivo",
+        "date": "MAR\u00c7O",
+        "workload": "30",
+        "paymentType": "Mensal",
+        "wage": "4.267,91"
+    },
+    {
+        "name": "ANDREIA DE FATIMA NOGUEIRA LEITE",
+        "situation": "Ativo",
+        "role": "SERVENTE ESCOLAR",
+        "type": "CEF - Efetivo",
+        "date": "MAR\u00c7O",
+        "workload": "30",
+        "paymentType": "Mensal",
+        "wage": "1.309,84"
+    },
+    {
+        "name": "ANEZIO ALVES DE CARVALHO",
+        "situation": "Ativo",
+        "role": "CALCETEIRO",
+        "type": "CEF - Efetivo",
+        "date": "MAR\u00c7O",
+        "workload": "40",
+        "paymentType": "Mensal",
+        "wage": "3.328,33"
+    },
+    {
+        "name": "ANGELICA APARECIDA DA SILVA",
+        "situation": "Ativo",
+        "role": "TEC.EM ENFERMAGEM",
+        "type": "STP - Servidor tempor\u00e1rio",
+        "date": "MAR\u00c7O",
+        "workload": "40",
+        "paymentType": "Mensal",
+        "wage": "3.018,40"
+    },
+    {
+        "name": "ANGELICA DINIZ MACIEL",
+        "situation": "Ativo",
+        "role": "SERVENTE ESCOLAR",
+        "type": "STP - Servidor tempor\u00e1rio",
+        "date": "MAR\u00c7O",
+        "workload": "30",
+        "paymentType": "Mensal",
+        "wage": "1.430,18"
+    },
+    {
+        "name": "ANTONIO ALVES DA SILVA",
+        "situation": "Ativo",
+        "role": "TRATORISTA",
+        "type": "CEF - Efetivo",
+        "date": "MAR\u00c7O",
+        "workload": "40",
+        "paymentType": "Mensal",
+        "wage": "2.949,20"
+    },
+    {
+        "name": "ANTONIO AMANDIO PEREIRA",
+        "situation": "Ativo",
+        "role": "SERVENTE",
+        "type": "CEF - Efetivo",
+        "date": "MAR\u00c7O",
+        "workload": "40",
+        "paymentType": "Mensal",
+        "wage": "1.734,41"
+    },
+    {
+        "name": "ANTONIO DONIZETE VILELA",
+        "situation": "Ativo",
+        "role": "PEDREIRO",
+        "type": "CEF - Efetivo",
+        "date": "MAR\u00c7O",
+        "workload": "40",
+        "paymentType": "Mensal",
+        "wage": "2.794,13"
+    },
+    {
+        "name": "APARECIDA RAQUEL DE OLIVEIRA SILVA",
+        "situation": "Ativo",
+        "role": "SERVENTE ESCOLAR",
+        "type": "CEF - Efetivo",
+        "date": "MAR\u00c7O",
+        "workload": "30",
+        "paymentType": "Mensal",
+        "wage": "1.309,97"
+    },
+    {
+        "name": "ARLINDO CAMILO FILHO",
+        "situation": "Ativo",
+        "role": "SERVENTE",
+        "type": "CEF - Efetivo",
+        "date": "MAR\u00c7O",
+        "workload": "40",
+        "paymentType": "Mensal",
+        "wage": "2.205,55"
+    },
+    {
+        "name": "AUGUSTO DE ALENCAR CARVALHO",
+        "situation": "Ativo",
+        "role": "FONOAUDIOLOGO",
+        "type": "STP - Servidor tempor\u00e1rio",
+        "date": "MAR\u00c7O",
+        "workload": "16",
+        "paymentType": "Mensal",
+        "wage": "2.896,11"
+    },
+    {
+        "name": "BENEDITO NUNES FERREIRA",
+        "situation": "Ativo",
+        "role": "VIGIA",
+        "type": "CEF - Efetivo",
+        "date": "MAR\u00c7O",
+        "workload": "40",
+        "paymentType": "Mensal",
+        "wage": "1.290,61"
+    },
+    {
+        "name": "CAMILA MARIA SILVA VILELA",
+        "situation": "Ativo",
+        "role": "PROF.1 A 4 ENS.FUND",
+        "type": "STP - Servidor tempor\u00e1rio",
+        "date": "MAR\u00c7O",
+        "workload": "24",
+        "paymentType": "Mensal",
+        "wage": "3.095,18"
+    },
+    {
+        "name": "CARLOS ALBERTO RIBEIRO DE OLIVEIRA",
+        "situation": "Ativo",
+        "role": "MECANICO",
+        "type": "CEF - Efetivo",
+        "date": "MAR\u00c7O",
+        "workload": "40",
+        "paymentType": "Mensal",
+        "wage": "3.782,54"
+    },
+    {
+        "name": "CARLOS STOESSEL VARGINHA OTOGALI",
+        "situation": "Ativo",
+        "role": "AGENTE DE CAMPO DO PSF",
+        "type": "STP - Servidor tempor\u00e1rio",
+        "date": "MAR\u00c7O",
+        "workload": "40",
+        "paymentType": "Mensal",
+        "wage": "7.899,99"
+    },
+    {
+        "name": "CAROLINA MISTICA ABRAHAO",
+        "situation": "Ativo",
+        "role": "TEC.EM ENFERMAGEM",
+        "type": "STP - Servidor tempor\u00e1rio",
+        "date": "MAR\u00c7O",
+        "workload": "40",
+        "paymentType": "Mensal",
+        "wage": "3.009,11"
+    },
+    {
+        "name": "CASSIO MURILO DA COSTA",
+        "situation": "Ativo",
+        "role": "PROF.1 A 4 ENS.FUND",
+        "type": "CEF - Efetivo",
+        "date": "MAR\u00c7O",
+        "workload": "24",
+        "paymentType": "Mensal",
+        "wage": "4.563,41"
+    },
+    {
+        "name": "CECILIA ANGELA LANDIM",
+        "situation": "Ativo",
+        "role": "SECRETARIO(A)",
+        "type": "STP - Servidor tempor\u00e1rio",
+        "date": "MAR\u00c7O",
+        "workload": "40",
+        "paymentType": "Mensal",
+        "wage": "1.416,40"
+    },
+    {
+        "name": "CELESTE NOGUEIRA DE CARVALHO",
+        "situation": "Inativo/Reformado",
+        "role": "APOSENTADO",
+        "type": "CEF - Efetivo",
+        "date": "MAR\u00c7O",
+        "workload": "0",
+        "paymentType": "Mensal",
+        "wage": "1.412,00"
+    },
+    {
+        "name": "CELIO ANIZIO ARNAUT",
+        "situation": "Ativo",
+        "role": "ENCARREGADO GERAL",
+        "type": "CEF - Efetivo",
+        "date": "MAR\u00c7O",
+        "workload": "40",
+        "paymentType": "Mensal",
+        "wage": "6.728,29"
+    },
+    {
+        "name": "CELIO DA COSTA",
+        "situation": "Ativo",
+        "role": "PEDREIRO",
+        "type": "CEF - Efetivo",
+        "date": "MAR\u00c7O",
+        "workload": "40",
+        "paymentType": "Mensal",
+        "wage": "2.474,45"
+    },
+    {
+        "name": "CHAENNY APARECIDA DO NASCIEMTO",
+        "situation": "Ativo",
+        "role": "CONSELHEIRO TUTELAR",
+        "type": "STP - Servidor tempor\u00e1rio",
+        "date": "MAR\u00c7O",
+        "workload": "40",
+        "paymentType": "Mensal",
+        "wage": "1.256,68"
+    },
+    {
+        "name": "CLAUDIANA DINIZ DE ANDRADE",
+        "situation": "Ativo",
+        "role": "PROF.1 A 4 ENS.FUND",
+        "type": "CEF - Efetivo",
+        "date": "MAR\u00c7O",
+        "workload": "24",
+        "paymentType": "Mensal",
+        "wage": "4.585,68"
+    },
+    {
+        "name": "CLAUDILENE JOSEFA DE OLIVEIRA",
+        "situation": "Ativo",
+        "role": "SERVENTE ESCOLAR",
+        "type": "CEF - Efetivo",
+        "date": "MAR\u00c7O",
+        "workload": "30",
+        "paymentType": "Mensal",
+        "wage": "1.687,17"
+    },
+    {
+        "name": "CLENILSON JOSE DE OLIVEIRA",
+        "situation": "Ativo",
+        "role": "SERVENTE",
+        "type": "CEF - Efetivo",
+        "date": "MAR\u00c7O",
+        "workload": "40",
+        "paymentType": "Mensal",
+        "wage": "1.430,18"
+    },
+    {
+        "name": "DAIANE DOS REIS OLIVEIRA",
+        "situation": "Ativo",
+        "role": "SECRETARIO(A) DE FISCALIZACAO",
+        "type": "CEF - Efetivo",
+        "date": "MAR\u00c7O",
+        "workload": "40",
+        "paymentType": "Mensal",
+        "wage": "1.489,32"
+    },
+    {
+        "name": "DAIANE FREITAS FERREIRA",
+        "situation": "Ativo",
+        "role": "TEC.EM ENFERMAGEM",
+        "type": "STP - Servidor tempor\u00e1rio",
+        "date": "MAR\u00c7O",
+        "workload": "40",
+        "paymentType": "Mensal",
+        "wage": "3.065,99"
+    },
+    {
+        "name": "DALINI DE OLIVEIRA SIQUEIRA",
+        "situation": "Ativo",
+        "role": "TEC.EM ENFERMAGEM",
+        "type": "STP - Servidor tempor\u00e1rio",
+        "date": "MAR\u00c7O",
+        "workload": "40",
+        "paymentType": "Mensal",
+        "wage": "3.018,40"
+    },
+    {
+        "name": "DAMIANA APARECIDA DA COSTA SOUZA",
+        "situation": "Ativo",
+        "role": "ENFERMEIRO",
+        "type": "STP - Servidor tempor\u00e1rio",
+        "date": "MAR\u00c7O",
+        "workload": "30",
+        "paymentType": "Mensal",
+        "wage": "3.910,70"
+    },
+    {
+        "name": "DARA DE CARVALHO MACIEL",
+        "situation": "Ativo",
+        "role": "AJUDANTE ESCOLAR",
+        "type": "STP - Servidor tempor\u00e1rio",
+        "date": "MAR\u00c7O",
+        "workload": "30",
+        "paymentType": "Mensal",
+        "wage": "1.904,70"
+    },
+    {
+        "name": "DARLI DE OLIVEIRA",
+        "situation": "Ativo",
+        "role": "MOTORISTA",
+        "type": "CRA - Comissionado de recrutamento amplo",
+        "date": "MAR\u00c7O",
+        "workload": "40",
+        "paymentType": "Mensal",
+        "wage": "2.645,25"
+    },
+    {
+        "name": "DEBORA SILVA FERREIRA",
+        "situation": "Ativo",
+        "role": "PROF.1 A 4 ENS.FUND",
+        "type": "STP - Servidor tempor\u00e1rio",
+        "date": "MAR\u00c7O",
+        "workload": "24",
+        "paymentType": "Mensal",
+        "wage": "3.095,18"
+    },
+    {
+        "name": "DIOGENES DE OILVEIRA DA SILVA JUNIOR",
+        "situation": "Ativo",
+        "role": "SECRETARIO(A)",
+        "type": "STP - Servidor tempor\u00e1rio",
+        "date": "MAR\u00c7O",
+        "workload": "40",
+        "paymentType": "Mensal",
+        "wage": "2.678,94"
+    },
+    {
+        "name": "DUCIENE MACIEL",
+        "situation": "Ativo",
+        "role": "SERV. GERAIS",
+        "type": "STP - Servidor tempor\u00e1rio",
+        "date": "MAR\u00c7O",
+        "workload": "40",
+        "paymentType": "Mensal",
+        "wage": "1.434,60"
+    },
+    {
+        "name": "EDVANE MARIA DA SILVA",
+        "situation": "Ativo",
+        "role": "AJUDANTE ESCOLAR",
+        "type": "STP - Servidor tempor\u00e1rio",
+        "date": "MAR\u00c7O",
+        "workload": "24",
+        "paymentType": "Mensal",
+        "wage": "1.368,14"
+    },
+    {
+        "name": "ELIVELTON NOGUEIRA SIQUEIRA",
+        "situation": "Ativo",
+        "role": "AGENTE COMUNITARIO DE SAUDE",
+        "type": "STP - Servidor tempor\u00e1rio",
+        "date": "MAR\u00c7O",
+        "workload": "40",
+        "paymentType": "Mensal",
+        "wage": "2.586,31"
+    },
+    {
+        "name": "ELIZANGELA APARECIDA DA SILVA SANTOS",
+        "situation": "Ativo",
+        "role": "AUXILIAR DE DENTISTA",
+        "type": "CEF - Efetivo",
+        "date": "MAR\u00c7O",
+        "workload": "40",
+        "paymentType": "Mensal",
+        "wage": "1.820,07"
+    },
+    {
+        "name": "ELTON LUIZ LEOPOLDINO COSTA",
+        "situation": "Ativo",
+        "role": "CONDUTOR DE AMBULANCIA",
+        "type": "CRA - Comissionado de recrutamento amplo",
+        "date": "MAR\u00c7O",
+        "workload": "0",
+        "paymentType": "Mensal",
+        "wage": "3.524,67"
+    },
+    {
+        "name": "ELYSSA FERREIRA FIRMINO",
+        "situation": "Ativo",
+        "role": "ODONTOLOGO",
+        "type": "FPU - Fun\u00e7\u00e3o p\u00fablica",
+        "date": "MAR\u00c7O",
+        "workload": "32",
+        "paymentType": "Mensal",
+        "wage": "4.595,15"
+    },
+    {
+        "name": "EMANUELE PEREIRA ROFINO",
+        "situation": "Ativo",
+        "role": "SECRETARIO(A)",
+        "type": "STP - Servidor tempor\u00e1rio",
+        "date": "MAR\u00c7O",
+        "workload": "40",
+        "paymentType": "Mensal",
+        "wage": "1.723,24"
+    },
+    {
+        "name": "ERICA DE FATIMA OLIVEIRA DINIZ",
+        "situation": "Ativo",
+        "role": "SECRETARIO(A)",
+        "type": "CEF - Efetivo",
+        "date": "MAR\u00c7O",
+        "workload": "24",
+        "paymentType": "Mensal",
+        "wage": "2.447,07"
+    },
+    {
+        "name": "ERICA MARIA DINIZ",
+        "situation": "Ativo",
+        "role": "SECRE DO SER DE CONTROLE E AVA",
+        "type": "CEF - Efetivo",
+        "date": "MAR\u00c7O",
+        "workload": "40",
+        "paymentType": "Mensal",
+        "wage": "1.948,56"
+    },
+    {
+        "name": "ESTER CRISTINA DINIZ COSTA",
+        "situation": "Ativo",
+        "role": "AJUDANTE ESCOLAR",
+        "type": "STP - Servidor tempor\u00e1rio",
+        "date": "MAR\u00c7O",
+        "workload": "24",
+        "paymentType": "Mensal",
+        "wage": "1.262,57"
+    },
+    {
+        "name": "FABIO FERREIRA DA COSTA",
+        "situation": "Ativo",
+        "role": "ENCARREGADO DO CEMITERIO",
+        "type": "CEF - Efetivo",
+        "date": "MAR\u00c7O",
+        "workload": "40",
+        "paymentType": "Mensal",
+        "wage": "1.645,35"
+    },
+    {
+        "name": "FERNANDA CORREA OLIVEIRA",
+        "situation": "Ativo",
+        "role": "ENFERMEIRO",
+        "type": "CEF - Efetivo",
+        "date": "MAR\u00c7O",
+        "workload": "40",
+        "paymentType": "Mensal",
+        "wage": "6.376,53"
+    },
+    {
+        "name": "FERNANDO HORACIO DO AMARAL NOGUEIRA",
+        "situation": "Ativo",
+        "role": "SERVENTE",
+        "type": "CEF - Efetivo",
+        "date": "MAR\u00c7O",
+        "workload": "40",
+        "paymentType": "Mensal",
+        "wage": "2.510,27"
+    },
+    {
+        "name": "FRANCISCA DE FATIMA DE AQUINO",
+        "situation": "Ativo",
+        "role": "PROF.1 A 4 ENS.FUND",
+        "type": "CEF - Efetivo",
+        "date": "MAR\u00c7O",
+        "workload": "24",
+        "paymentType": "Mensal",
+        "wage": "4.725,56"
+    },
+    {
+        "name": "FRANCISCA DE PAULA BATISTA DA CUNHA",
+        "situation": "Ativo",
+        "role": "MONITOR DE TRANSPORTE ESCOLAR",
+        "type": "STP - Servidor tempor\u00e1rio",
+        "date": "MAR\u00c7O",
+        "workload": "24",
+        "paymentType": "Mensal",
+        "wage": "1.306,10"
+    },
+    {
+        "name": "FRANCISCO DE ASSIS VIEIRA",
+        "situation": "Ativo",
+        "role": "VIGIA",
+        "type": "STP - Servidor tempor\u00e1rio",
+        "date": "MAR\u00c7O",
+        "workload": "44",
+        "paymentType": "Mensal",
+        "wage": "1.724,00"
+    },
+    {
+        "name": "FRANCISCO DE JESUS ARAUJO DO AMARAL",
+        "situation": "Ativo",
+        "role": "SERVENTE",
+        "type": "CEF - Efetivo",
+        "date": "MAR\u00c7O",
+        "workload": "40",
+        "paymentType": "Mensal",
+        "wage": "1.118,75"
+    },
+    {
+        "name": "GENI LEITE DA SILVA",
+        "situation": "Inativo/Reformado",
+        "role": "APOSENTADO",
+        "type": "CEF - Efetivo",
+        "date": "MAR\u00c7O",
+        "workload": "0",
+        "paymentType": "Mensal",
+        "wage": "1.840,68"
+    },
+    {
+        "name": "GENILDA DOS REIS",
+        "situation": "Ativo",
+        "role": "AGENTE COMUNITARIO DE SAUDE",
+        "type": "STP - Servidor tempor\u00e1rio",
+        "date": "MAR\u00c7O",
+        "workload": "40",
+        "paymentType": "Mensal",
+        "wage": "2.586,31"
+    },
+    {
+        "name": "GERALDO VICENTE FILHO",
+        "situation": "Inativo/Reformado",
+        "role": "APOSENTADO",
+        "type": "CEF - Efetivo",
+        "date": "MAR\u00c7O",
+        "workload": "0",
+        "paymentType": "Mensal",
+        "wage": "2.641,83"
+    },
+    {
+        "name": "GILBERTO DE PAULA",
+        "situation": "Ativo",
+        "role": "MOTORISTA",
+        "type": "CEF - Efetivo",
+        "date": "MAR\u00c7O",
+        "workload": "40",
+        "paymentType": "Mensal",
+        "wage": "2.645,25"
+    },
+    {
+        "name": "GILMAR DINIZ SIQUEIRA",
+        "situation": "Ativo",
+        "role": "PEDREIRO",
+        "type": "CEF - Efetivo",
+        "date": "MAR\u00c7O",
+        "workload": "40",
+        "paymentType": "Mensal",
+        "wage": "4.207,12"
+    },
+    {
+        "name": "GILMARA ANTONIA DA SILVA",
+        "situation": "Ativo",
+        "role": "AJUDANTE ESCOLAR",
+        "type": "STP - Servidor tempor\u00e1rio",
+        "date": "MAR\u00c7O",
+        "workload": "24",
+        "paymentType": "Mensal",
+        "wage": "592,27"
+    },
+    {
+        "name": "GIOVANE ANDRADE DINIZ",
+        "situation": "Ativo",
+        "role": "AGENTE COMUNITARIO DE SAUDE",
+        "type": "CEF - Efetivo",
+        "date": "MAR\u00c7O",
+        "workload": "40",
+        "paymentType": "Mensal",
+        "wage": "3.316,04"
+    },
+    {
+        "name": "GISELI MARIA ANDRADE DOS SANTOS",
+        "situation": "Ativo",
+        "role": "PSICOLOGO",
+        "type": "STP - Servidor tempor\u00e1rio",
+        "date": "MAR\u00c7O",
+        "workload": "20",
+        "paymentType": "Mensal",
+        "wage": "4.174,74"
+    },
+    {
+        "name": "GLEICE FRANCISCA DE SOUZA ABRAHAO",
+        "situation": "Ativo",
+        "role": "FARMAC.BIOQUIMICO",
+        "type": "CEF - Efetivo",
+        "date": "MAR\u00c7O",
+        "workload": "40",
+        "paymentType": "Mensal",
+        "wage": "6.517,49"
+    },
+    {
+        "name": "GRACIANA APARECIDA DA SILVA",
+        "situation": "Ativo",
+        "role": "PROF.1 A 4 ENS.FUND",
+        "type": "CEF - Efetivo",
+        "date": "MAR\u00c7O",
+        "workload": "24",
+        "paymentType": "Mensal",
+        "wage": "4.504,36"
+    },
+    {
+        "name": "GRACIANE APARECIDA MEDEIROS GOMES",
+        "situation": "Ativo",
+        "role": "PROF.1 A 4 ENS.FUND",
+        "type": "STP - Servidor tempor\u00e1rio",
+        "date": "MAR\u00c7O",
+        "workload": "24",
+        "paymentType": "Mensal",
+        "wage": "3.095,18"
+    },
+    {
+        "name": "GRACILENE ROMUALDO",
+        "situation": "Ativo",
+        "role": "AGENTE COMUNITARIO DE SAUDE",
+        "type": "STP - Servidor tempor\u00e1rio",
+        "date": "MAR\u00c7O",
+        "workload": "40",
+        "paymentType": "Mensal",
+        "wage": "2.586,31"
+    },
+    {
+        "name": "GRAZYELE MOREIRA DE ANDRADE",
+        "situation": "Ativo",
+        "role": "SERVENTE ESCOLAR",
+        "type": "STP - Servidor tempor\u00e1rio",
+        "date": "MAR\u00c7O",
+        "workload": "30",
+        "paymentType": "Mensal",
+        "wage": "188,27"
+    },
+    {
+        "name": "GUIOMAR DE SOUZA ANDRADE",
+        "situation": "Ativo",
+        "role": "PROF.1 A 4 ENS.FUND",
+        "type": "CEF - Efetivo",
+        "date": "MAR\u00c7O",
+        "workload": "24",
+        "paymentType": "Mensal",
+        "wage": "3.385,98"
+    },
+    {
+        "name": "GUSTAVO APARECIDO DA SILVA",
+        "situation": "Ativo",
+        "role": "ASSISTENTE SOCIAL",
+        "type": "CRR - Comissionado de recrutamento restrito",
+        "date": "MAR\u00c7O",
+        "workload": "40",
+        "paymentType": "Mensal",
+        "wage": "2.777,51"
+    },
+    {
+        "name": "HELDER DE OLIVEIRA DINIZ",
+        "situation": "Ativo",
+        "role": "SEC.MUN. DE FAZENDA",
+        "type": "CEF - Efetivo",
+        "date": "MAR\u00c7O",
+        "workload": "40",
+        "paymentType": "Mensal",
+        "wage": "2.859,75"
+    },
+    {
+        "name": "IAGO JOSE CORREA",
+        "situation": "Ativo",
+        "role": "SERVENTE",
+        "type": "CEF - Efetivo",
+        "date": "MAR\u00c7O",
+        "workload": "40",
+        "paymentType": "Mensal",
+        "wage": "1.943,10"
+    },
+    {
+        "name": "INGREDE APARECIDA MARTINS",
+        "situation": "Ativo",
+        "role": "VISITADOR SANITARIO",
+        "type": "STP - Servidor tempor\u00e1rio",
+        "date": "MAR\u00c7O",
+        "workload": "40",
+        "paymentType": "Mensal",
+        "wage": "2.381,55"
+    },
+    {
+        "name": "ISABELLA DINIZ",
+        "situation": "Ativo",
+        "role": "PSICOLOGO",
+        "type": "CEF - Efetivo",
+        "date": "MAR\u00c7O",
+        "workload": "16",
+        "paymentType": "Mensal",
+        "wage": "2.635,51"
+    },
+    {
+        "name": "ISAURA DINIZ DE ANDRADE",
+        "situation": "Ativo",
+        "role": "PROF.1 A 4 ENS.FUND",
+        "type": "CEF - Efetivo",
+        "date": "MAR\u00c7O",
+        "workload": "24",
+        "paymentType": "Mensal",
+        "wage": "4.196,09"
+    },
+    {
+        "name": "ISTEFANY KELLY LOPES ALVES",
+        "situation": "Ativo",
+        "role": "SECRETARIO(A)",
+        "type": "STP - Servidor tempor\u00e1rio",
+        "date": "MAR\u00c7O",
+        "workload": "40",
+        "paymentType": "Mensal",
+        "wage": "531,46"
+    },
+    {
+        "name": "IVAN DE PAULA E SILVA",
+        "situation": "Ativo",
+        "role": "VIGIA",
+        "type": "STP - Servidor tempor\u00e1rio",
+        "date": "MAR\u00c7O",
+        "workload": "40",
+        "paymentType": "Mensal",
+        "wage": "1.627,33"
+    },
+    {
+        "name": "IVANA DE TOLEDO VILELA CARVALHO",
+        "situation": "Ativo",
+        "role": "CONSELHEIRO TUTELAR",
+        "type": "STP - Servidor tempor\u00e1rio",
+        "date": "MAR\u00c7O",
+        "workload": "40",
+        "paymentType": "Mensal",
+        "wage": "1.256,68"
+    },
+    {
+        "name": "IZABEL CRISTINA ALVES",
+        "situation": "Ativo",
+        "role": "RECEPCIONISTA",
+        "type": "STP - Servidor tempor\u00e1rio",
+        "date": "MAR\u00c7O",
+        "workload": "40",
+        "paymentType": "Mensal",
+        "wage": "1.659,45"
+    },
+    {
+        "name": "JAISLA DE CAMPOS BARBOSA",
+        "situation": "Ativo",
+        "role": "AJUDANTE ESCOLAR",
+        "type": "STP - Servidor tempor\u00e1rio",
+        "date": "MAR\u00c7O",
+        "workload": "24",
+        "paymentType": "Mensal",
+        "wage": "1.368,14"
+    },
+    {
+        "name": "JANAINA PAULA DE ANDRADE",
+        "situation": "Ativo",
+        "role": "SERV. GERAIS",
+        "type": "STP - Servidor tempor\u00e1rio",
+        "date": "MAR\u00c7O",
+        "workload": "30",
+        "paymentType": "Mensal",
+        "wage": "1.430,18"
+    },
+    {
+        "name": "JANE CLEER MACIEL PAIVA",
+        "situation": "Ativo",
+        "role": "PROF.1 A 4 ENS.FUND",
+        "type": "CEF - Efetivo",
+        "date": "MAR\u00c7O",
+        "workload": "24",
+        "paymentType": "Mensal",
+        "wage": "2.910,21"
+    },
+    {
+        "name": "JANIO JOSE LEITE",
+        "situation": "Ativo",
+        "role": "MOTORISTA",
+        "type": "CEF - Efetivo",
+        "date": "MAR\u00c7O",
+        "workload": "40",
+        "paymentType": "Mensal",
+        "wage": "3.310,88"
+    },
+    {
+        "name": "JAQUELINE MIRANDA VILELA COSTA",
+        "situation": "Ativo",
+        "role": "RECEPCIONISTA",
+        "type": "STP - Servidor tempor\u00e1rio",
+        "date": "MAR\u00c7O",
+        "workload": "40",
+        "paymentType": "Mensal",
+        "wage": "1.853,62"
+    },
+    {
+        "name": "JEFFERSON LAZARO ARANTES",
+        "situation": "Ativo",
+        "role": "SERVENTE",
+        "type": "CEF - Efetivo",
+        "date": "MAR\u00c7O",
+        "workload": "40",
+        "paymentType": "Mensal",
+        "wage": "2.205,55"
+    },
+    {
+        "name": "JESSICA LUIZA DA COSTA FIDELIS",
+        "situation": "Ativo",
+        "role": "SERV. GERAIS",
+        "type": "CEF - Efetivo",
+        "date": "MAR\u00c7O",
+        "workload": "40",
+        "paymentType": "Mensal",
+        "wage": "1.114,24"
+    },
+    {
+        "name": "JOAO CARLOS CARLI",
+        "situation": "Ativo",
+        "role": "MOTORISTA",
+        "type": "CEF - Efetivo",
+        "date": "MAR\u00c7O",
+        "workload": "40",
+        "paymentType": "Mensal",
+        "wage": "2.645,25"
+    },
+    {
+        "name": "JOAO COSTA DINIZ",
+        "situation": "Ativo",
+        "role": "SERVENTE",
+        "type": "CEF - Efetivo",
+        "date": "MAR\u00c7O",
+        "workload": "40",
+        "paymentType": "Mensal",
+        "wage": "1.691,58"
+    },
+    {
+        "name": "JOAO DIMAS ARAUJO",
+        "situation": "Ativo",
+        "role": "CONDUTOR DE AMBULANCIA",
+        "type": "CEF - Efetivo",
+        "date": "MAR\u00c7O",
+        "workload": "40",
+        "paymentType": "Mensal",
+        "wage": "4.817,52"
+    },
+    {
+        "name": "JOAO PAULO COSTA LEOPOLDINO",
+        "situation": "Ativo",
+        "role": "MOTORISTA",
+        "type": "CEF - Efetivo",
+        "date": "MAR\u00c7O",
+        "workload": "40",
+        "paymentType": "Mensal",
+        "wage": "3.310,88"
+    },
+    {
+        "name": "JOAO PAULO VILELA DA CUNHA",
+        "situation": "Ativo",
+        "role": "ADVOGADO (OUVIDOR GERAL)",
+        "type": "CRA - Comissionado de recrutamento amplo",
+        "date": "MAR\u00c7O",
+        "workload": "20",
+        "paymentType": "Mensal",
+        "wage": "2.196,60"
+    },
+    {
+        "name": "JOAO VICTOR FERREIRA MENDES",
+        "situation": "Ativo",
+        "role": "MONITOR DE TRANSPORTE ESCOLAR",
+        "type": "STP - Servidor tempor\u00e1rio",
+        "date": "MAR\u00c7O",
+        "workload": "24",
+        "paymentType": "Mensal",
+        "wage": "1.306,10"
+    },
+    {
+        "name": "JOAO VILELA NETO",
+        "situation": "Inativo/Reformado",
+        "role": "APOSENTADO",
+        "type": "CEF - Efetivo",
+        "date": "MAR\u00c7O",
+        "workload": "0",
+        "paymentType": "Mensal",
+        "wage": "2.087,61"
+    },
+    {
+        "name": "JOELMA SIQUEIRA NOGUEIRA",
+        "situation": "Ativo",
+        "role": "VICE DIRET ESCOL PUB",
+        "type": "CEF - Efetivo",
+        "date": "MAR\u00c7O",
+        "workload": "40",
+        "paymentType": "Mensal",
+        "wage": "4.066,21"
+    },
+    {
+        "name": "JORDANA DE CARVALHO BASTOS",
+        "situation": "Ativo",
+        "role": "AJUDANTE ESCOLAR",
+        "type": "STP - Servidor tempor\u00e1rio",
+        "date": "MAR\u00c7O",
+        "workload": "24",
+        "paymentType": "Mensal",
+        "wage": "1.368,14"
+    },
+    {
+        "name": "JOSE AGUIMAR ARANTES",
+        "situation": "Ativo",
+        "role": "SERVENTE",
+        "type": "CEF - Efetivo",
+        "date": "MAR\u00c7O",
+        "workload": "40",
+        "paymentType": "Mensal",
+        "wage": "1.218,24"
+    },
+    {
+        "name": "JOSE ALMEIDA JUNIOR",
+        "situation": "Ativo",
+        "role": "PROF.EDUCACAO FISICA",
+        "type": "STP - Servidor tempor\u00e1rio",
+        "date": "MAR\u00c7O",
+        "workload": "24",
+        "paymentType": "Mensal",
+        "wage": "2.922,26"
+    },
+    {
+        "name": "JOSE ANARIO DOS REIS",
+        "situation": "Ativo",
+        "role": "SERVENTE",
+        "type": "CEF - Efetivo",
+        "date": "MAR\u00c7O",
+        "workload": "40",
+        "paymentType": "Mensal",
+        "wage": "1.306,10"
+    },
+    {
+        "name": "JOSE DIVINO CORREA",
+        "situation": "Ativo",
+        "role": "SERVENTE",
+        "type": "CEF - Efetivo",
+        "date": "MAR\u00c7O",
+        "workload": "40",
+        "paymentType": "Mensal",
+        "wage": "1.306,10"
+    },
+    {
+        "name": "JOSE EDSON DA SILVA",
+        "situation": "Ativo",
+        "role": "ASSESSOR DE GABINETE",
+        "type": "CRA - Comissionado de recrutamento amplo",
+        "date": "MAR\u00c7O",
+        "workload": "40",
+        "paymentType": "Mensal",
+        "wage": "1.775,05"
+    },
+    {
+        "name": "JOSE GERALDO BOTELHO VILELA",
+        "situation": "Ativo",
+        "role": "CHEFE DO DEPARTAMENTO PESSOAL",
+        "type": "CEF - Efetivo",
+        "date": "MAR\u00c7O",
+        "workload": "40",
+        "paymentType": "Mensal",
+        "wage": "9.595,37"
+    },
+    {
+        "name": "JOSE JOAQUIM DA SILVA",
+        "situation": "Ativo",
+        "role": "PEDREIRO",
+        "type": "CEF - Efetivo",
+        "date": "MAR\u00c7O",
+        "workload": "40",
+        "paymentType": "Mensal",
+        "wage": "2.725,48"
+    },
+    {
+        "name": "JOSE LAMIM DE SIQUEIRA",
+        "situation": "Ativo",
+        "role": "MOTORISTA",
+        "type": "CEF - Efetivo",
+        "date": "MAR\u00c7O",
+        "workload": "40",
+        "paymentType": "Mensal",
+        "wage": "4.114,51"
+    },
+    {
+        "name": "JOSE MARIA DE OLIVEIRA",
+        "situation": "Ativo",
+        "role": "CONDUTOR DE AMBULANCIA",
+        "type": "CEF - Efetivo",
+        "date": "MAR\u00c7O",
+        "workload": "40",
+        "paymentType": "Mensal",
+        "wage": "6.439,75"
+    },
+    {
+        "name": "JOSE PAULO LADEIRA DA SILVA",
+        "situation": "Ativo",
+        "role": "PEDREIRO",
+        "type": "CEF - Efetivo",
+        "date": "MAR\u00c7O",
+        "workload": "40",
+        "paymentType": "Mensal",
+        "wage": "2.474,45"
+    },
+    {
+        "name": "JOSE QUIRINO SOARES FILHO",
+        "situation": "Inativo/Reformado",
+        "role": "APOSENTADO",
+        "type": "CEF - Efetivo",
+        "date": "MAR\u00c7O",
+        "workload": "0",
+        "paymentType": "Mensal",
+        "wage": "3.413,53"
+    },
+    {
+        "name": "JOSE ROBERTO DE CARVALHO",
+        "situation": "Ativo",
+        "role": "TESOUREIRO",
+        "type": "CEF - Efetivo",
+        "date": "MAR\u00c7O",
+        "workload": "40",
+        "paymentType": "Mensal",
+        "wage": "6.651,35"
+    },
+    {
+        "name": "JOSE ROGERIO SOARES DA COSTA",
+        "situation": "Ativo",
+        "role": "PEDREIRO",
+        "type": "CEF - Efetivo",
+        "date": "MAR\u00c7O",
+        "workload": "40",
+        "paymentType": "Mensal",
+        "wage": "3.168,89"
+    },
+    {
+        "name": "JOSE TREVAS PEREIRA IDALGINO",
+        "situation": "Ativo",
+        "role": "SERVENTE ESCOLAR",
+        "type": "CEF - Efetivo",
+        "date": "MAR\u00c7O",
+        "workload": "40",
+        "paymentType": "Mensal",
+        "wage": "1.820,07"
+    },
+    {
+        "name": "JOSE VALDINEI NOGUEIRA MESSIAS",
+        "situation": "Ativo",
+        "role": "MOTORISTA",
+        "type": "CEF - Efetivo",
+        "date": "MAR\u00c7O",
+        "workload": "40",
+        "paymentType": "Mensal",
+        "wage": "2.200,32"
+    },
+    {
+        "name": "JOSIANE APARECIDA SILVA OLIVEIRA",
+        "situation": "Ativo",
+        "role": "RECEPCIONISTA",
+        "type": "STP - Servidor tempor\u00e1rio",
+        "date": "MAR\u00c7O",
+        "workload": "40",
+        "paymentType": "Mensal",
+        "wage": "1.721,49"
+    },
+    {
+        "name": "KARINA RAMOS SEBASTIAO",
+        "situation": "Ativo",
+        "role": "SERVENTE ESCOLAR",
+        "type": "STP - Servidor tempor\u00e1rio",
+        "date": "MAR\u00c7O",
+        "workload": "24",
+        "paymentType": "Mensal",
+        "wage": "1.820,07"
+    },
+    {
+        "name": "KEILA DOS REIS CARVALHO COSTA",
+        "situation": "Ativo",
+        "role": "DIRETOR ESCOLAR",
+        "type": "CRA - Comissionado de recrutamento amplo",
+        "date": "MAR\u00c7O",
+        "workload": "24",
+        "paymentType": "Mensal",
+        "wage": "4.067,54"
+    },
+    {
+        "name": "KELLY NASCIMENTO RIBEIRO",
+        "situation": "Ativo",
+        "role": "SECRETARIO(A)",
+        "type": "STP - Servidor tempor\u00e1rio",
+        "date": "MAR\u00c7O",
+        "workload": "40",
+        "paymentType": "Mensal",
+        "wage": "1.306,10"
+    },
+    {
+        "name": "KENNIA DE CARVALHO BOTELHO",
+        "situation": "Ativo",
+        "role": "PROF.1 A 4 ENS.FUND",
+        "type": "CEF - Efetivo",
+        "date": "MAR\u00c7O",
+        "workload": "24",
+        "paymentType": "Mensal",
+        "wage": "4.702,24"
+    },
+    {
+        "name": "KIUANNA SARAH ALVES BORGES",
+        "situation": "Ativo",
+        "role": "CONSELHEIRO TUTELAR",
+        "type": "STP - Servidor tempor\u00e1rio",
+        "date": "MAR\u00c7O",
+        "workload": "40",
+        "paymentType": "Mensal",
+        "wage": "1.256,68"
+    },
+    {
+        "name": "LAUDELINA DE ANDRADE NOGUEIRA",
+        "situation": "Ativo",
+        "role": "PROF.1 A 4 ENS.FUND",
+        "type": "CRA - Comissionado de recrutamento amplo",
+        "date": "MAR\u00c7O",
+        "workload": "24",
+        "paymentType": "Mensal",
+        "wage": "4.304,17"
+    },
+    {
+        "name": "LAUDICEIA DOS SANTOS TAVARES",
+        "situation": "Ativo",
+        "role": "SERVENTE ESCOLAR",
+        "type": "CEF - Efetivo",
+        "date": "MAR\u00c7O",
+        "workload": "30",
+        "paymentType": "Mensal",
+        "wage": "1.375,58"
+    },
+    {
+        "name": "LAZARA APARECIDA LEOPOLDINO",
+        "situation": "Ativo",
+        "role": "SERVENTE ESCOLAR",
+        "type": "CEF - Efetivo",
+        "date": "MAR\u00c7O",
+        "workload": "30",
+        "paymentType": "Mensal",
+        "wage": "1.948,56"
+    },
+    {
+        "name": "LEILA APARECIDA CORREA",
+        "situation": "Ativo",
+        "role": "COORDENADOR DO CRAS",
+        "type": "STP - Servidor tempor\u00e1rio",
+        "date": "MAR\u00c7O",
+        "workload": "40",
+        "paymentType": "Mensal",
+        "wage": "2.247,04"
+    },
+    {
+        "name": "LENI DOS REIS LEITE",
+        "situation": "Ativo",
+        "role": "SERVENTE ESCOLAR",
+        "type": "STP - Servidor tempor\u00e1rio",
+        "date": "MAR\u00c7O",
+        "workload": "30",
+        "paymentType": "Mensal",
+        "wage": "1.306,10"
+    },
+    {
+        "name": "LETYCIA VARGINHA ROCHA",
+        "situation": "Ativo",
+        "role": "SECRETARIO(A)",
+        "type": "CEF - Efetivo",
+        "date": "MAR\u00c7O",
+        "workload": "40",
+        "paymentType": "Mensal",
+        "wage": "2.157,97"
+    },
+    {
+        "name": "LILIAM REIS DINIZ",
+        "situation": "Ativo",
+        "role": "PROF.EDUCACAO FISICA",
+        "type": "CEF - Efetivo",
+        "date": "MAR\u00c7O",
+        "workload": "24",
+        "paymentType": "Mensal",
+        "wage": "3.095,18"
+    },
+    {
+        "name": "LILIAN APARECIDA CORREA",
+        "situation": "Ativo",
+        "role": "AGENTE COMUNITARIO DE SAUDE",
+        "type": "STP - Servidor tempor\u00e1rio",
+        "date": "MAR\u00c7O",
+        "workload": "40",
+        "paymentType": "Mensal",
+        "wage": "2.586,31"
+    },
+    {
+        "name": "LILIAN DE CASTRO DA SILVA",
+        "situation": "Ativo",
+        "role": "AGENTE COMUNITARIO DE SAUDE",
+        "type": "STP - Servidor tempor\u00e1rio",
+        "date": "MAR\u00c7O",
+        "workload": "40",
+        "paymentType": "Mensal",
+        "wage": "2.586,31"
+    },
+    {
+        "name": "LORAINE PIRES VILELA",
+        "situation": "Ativo",
+        "role": "ENFERMEIRO PSF",
+        "type": "CEF - Efetivo",
+        "date": "MAR\u00c7O",
+        "workload": "40",
+        "paymentType": "Mensal",
+        "wage": "4.542,43"
+    },
+    {
+        "name": "LUANA DE SOUZA SIQUEIRA",
+        "situation": "Ativo",
+        "role": "RECEPCIONISTA",
+        "type": "STP - Servidor tempor\u00e1rio",
+        "date": "MAR\u00c7O",
+        "workload": "40",
+        "paymentType": "Mensal",
+        "wage": "1.597,41"
+    },
+    {
+        "name": "LUCAS AUGUSTO DE FREITAS GONCALVES",
+        "situation": "Ativo",
+        "role": "AGENTE DE CAMPO DO PSF",
+        "type": "STP - Servidor tempor\u00e1rio",
+        "date": "MAR\u00c7O",
+        "workload": "40",
+        "paymentType": "Mensal",
+        "wage": "3.453,47"
+    },
+    {
+        "name": "LUCAS DE CASTRO DA SILVA",
+        "situation": "Ativo",
+        "role": "PEDREIRO",
+        "type": "CEF - Efetivo",
+        "date": "MAR\u00c7O",
+        "workload": "40",
+        "paymentType": "Mensal",
+        "wage": "2.229,16"
+    },
+    {
+        "name": "LUCIANA DE FATIMA MACIEL",
+        "situation": "Ativo",
+        "role": "PROF.1 A 4 ENS.FUND",
+        "type": "STP - Servidor tempor\u00e1rio",
+        "date": "MAR\u00c7O",
+        "workload": "24",
+        "paymentType": "Mensal",
+        "wage": "3.827,46"
+    },
+    {
+        "name": "LUCIANNY NANCI SANTOS SIQUEIRA",
+        "situation": "Ativo",
+        "role": "AGENTE ADMINISTRATIIVO II",
+        "type": "CEF - Efetivo",
+        "date": "MAR\u00c7O",
+        "workload": "40",
+        "paymentType": "Mensal",
+        "wage": "3.629,24"
+    },
+    {
+        "name": "LUCIANO NASCIMENTO DE OLIVEIRA",
+        "situation": "Ativo",
+        "role": "CONDUTOR DE AMBULANCIA",
+        "type": "CEF - Efetivo",
+        "date": "MAR\u00c7O",
+        "workload": "40",
+        "paymentType": "Mensal",
+        "wage": "3.524,67"
+    },
+    {
+        "name": "LUCIMAR REIS DO AMARAL",
+        "situation": "Ativo",
+        "role": "AUX. DE LABORATORIO",
+        "type": "CEF - Efetivo",
+        "date": "MAR\u00c7O",
+        "workload": "40",
+        "paymentType": "Mensal",
+        "wage": "2.544,77"
+    },
+    {
+        "name": "LUIZ ROBERTO CORREA",
+        "situation": "Ativo",
+        "role": "MOTORISTA",
+        "type": "STP - Servidor tempor\u00e1rio",
+        "date": "MAR\u00c7O",
+        "workload": "40",
+        "paymentType": "Mensal",
+        "wage": "2.645,25"
+    },
+    {
+        "name": "LUZIANE APARECIDA DA COSTA MENDES",
+        "situation": "Ativo",
+        "role": "PROF.1 A 4 ENS.FUND",
+        "type": "CEF - Efetivo",
+        "date": "MAR\u00c7O",
+        "workload": "24",
+        "paymentType": "Mensal",
+        "wage": "3.917,76"
+    },
+    {
+        "name": "MAGDA VILELA DA CUNHA",
+        "situation": "Ativo",
+        "role": "PROF.1 A 4 ENS.FUND",
+        "type": "CEF - Efetivo",
+        "date": "MAR\u00c7O",
+        "workload": "24",
+        "paymentType": "Mensal",
+        "wage": "4.621,28"
+    },
+    {
+        "name": "MAQUICILEI DE PAULA OLIVEIRA",
+        "situation": "Ativo",
+        "role": "SERVENTE",
+        "type": "CEF - Efetivo",
+        "date": "MAR\u00c7O",
+        "workload": "40",
+        "paymentType": "Mensal",
+        "wage": "971,90"
+    },
+    {
+        "name": "MARCILENE SOARES DE SIQUEIRA",
+        "situation": "Ativo",
+        "role": "TEC.EM ENFERMAGEM",
+        "type": "CEF - Efetivo",
+        "date": "MAR\u00c7O",
+        "workload": "40",
+        "paymentType": "Mensal",
+        "wage": "3.326,47"
+    },
+    {
+        "name": "MARCO DINIZ LEAL",
+        "situation": "Ativo",
+        "role": "MOTORISTA",
+        "type": "CEF - Efetivo",
+        "date": "MAR\u00c7O",
+        "workload": "40",
+        "paymentType": "Mensal",
+        "wage": "3.083,56"
+    },
+    {
+        "name": "MARCONI DINIZ TAVARES",
+        "situation": "Ativo",
+        "role": "MOTORISTA",
+        "type": "CEF - Efetivo",
+        "date": "MAR\u00c7O",
+        "workload": "40",
+        "paymentType": "Mensal",
+        "wage": "5.362,49"
+    },
+    {
+        "name": "MARCOS SILVESTRE",
+        "situation": "Ativo",
+        "role": "CONDUTOR DE AMBULANCIA",
+        "type": "CEF - Efetivo",
+        "date": "MAR\u00c7O",
+        "workload": "40",
+        "paymentType": "Mensal",
+        "wage": "6.439,75"
+    },
+    {
+        "name": "MARIA APARECIDA DA SILVA",
+        "situation": "Inativo/Reformado",
+        "role": "APOSENTADO",
+        "type": "CEF - Efetivo",
+        "date": "MAR\u00c7O",
+        "workload": "0",
+        "paymentType": "Mensal",
+        "wage": "1.842,01"
+    },
+    {
+        "name": "MARIA APARECIDA NOGUEIRA ARNAUT",
+        "situation": "Ativo",
+        "role": "RECEPCIONISTA",
+        "type": "CEF - Efetivo",
+        "date": "MAR\u00c7O",
+        "workload": "40",
+        "paymentType": "Mensal",
+        "wage": "4.477,44"
+    },
+    {
+        "name": "MARIA APARECIDA NOGUEIRA DE OLIVEIRA",
+        "situation": "Ativo",
+        "role": "SERVENTE ESCOLAR",
+        "type": "CEF - Efetivo",
+        "date": "MAR\u00c7O",
+        "workload": "30",
+        "paymentType": "Mensal",
+        "wage": "1.984,10"
+    },
+    {
+        "name": "MARIA DA GLORIA DA ROCHA MACIEL",
+        "situation": "Ativo",
+        "role": "SERVENTE ESCOLAR",
+        "type": "CEF - Efetivo",
+        "date": "MAR\u00c7O",
+        "workload": "30",
+        "paymentType": "Mensal",
+        "wage": "1.691,58"
+    },
+    {
+        "name": "MARIA DE FATIMA FERREIRA",
+        "situation": "Ativo",
+        "role": "PSICOLOGO",
+        "type": "STP - Servidor tempor\u00e1rio",
+        "date": "MAR\u00c7O",
+        "workload": "30",
+        "paymentType": "Mensal",
+        "wage": "2.454,48"
+    },
+    {
+        "name": "MARIA DE LOURDES DE ANDRADE TOLEDO",
+        "situation": "Ativo",
+        "role": "SERVENTE ESCOLAR",
+        "type": "CEF - Efetivo",
+        "date": "MAR\u00c7O",
+        "workload": "30",
+        "paymentType": "Mensal",
+        "wage": "1.820,07"
+    },
+    {
+        "name": "MARIA HELENA MACIEL",
+        "situation": "Ativo",
+        "role": "TEC.EM ENFERMAGEM",
+        "type": "STP - Servidor tempor\u00e1rio",
+        "date": "MAR\u00c7O",
+        "workload": "40",
+        "paymentType": "Mensal",
+        "wage": "3.074,99"
+    },
+    {
+        "name": "MARIA ISABEL FERREIRA",
+        "situation": "Ativo",
+        "role": "SERVENTE ESCOLAR",
+        "type": "CEF - Efetivo",
+        "date": "MAR\u00c7O",
+        "workload": "30",
+        "paymentType": "Mensal",
+        "wage": "1.656,46"
+    },
+    {
+        "name": "MARIA JOSE BENTO DA COSTA DINIZ",
+        "situation": "Ativo",
+        "role": "SERV. GERAIS",
+        "type": "CEF - Efetivo",
+        "date": "MAR\u00c7O",
+        "workload": "40",
+        "paymentType": "Mensal",
+        "wage": "1.289,57"
+    },
+    {
+        "name": "MARIA NADEGE DINIZ MACIEL",
+        "situation": "Ativo",
+        "role": "PROF.1 A 4 ENS.FUND",
+        "type": "CEF - Efetivo",
+        "date": "MAR\u00c7O",
+        "workload": "24",
+        "paymentType": "Mensal",
+        "wage": "4.338,68"
+    },
+    {
+        "name": "MARIA NAZARINA PEREIRA BARBOSA",
+        "situation": "Ativo",
+        "role": "SERVENTE ESCOLAR",
+        "type": "CEF - Efetivo",
+        "date": "MAR\u00c7O",
+        "workload": "30",
+        "paymentType": "Mensal",
+        "wage": "1.820,07"
+    },
+    {
+        "name": "MARIA ODETE MACIEL",
+        "situation": "Ativo",
+        "role": "PROF.1 A 4 ENS.FUND",
+        "type": "CEF - Efetivo",
+        "date": "MAR\u00c7O",
+        "workload": "24",
+        "paymentType": "Mensal",
+        "wage": "4.349,67"
+    },
+    {
+        "name": "MARIA ROSA DE CARVALHO VILELA",
+        "situation": "Ativo",
+        "role": "AGENTE COMUNITARIO DE SAUDE",
+        "type": "STP - Servidor tempor\u00e1rio",
+        "date": "MAR\u00c7O",
+        "workload": "40",
+        "paymentType": "Mensal",
+        "wage": "2.586,31"
+    },
+    {
+        "name": "MARIA ROZILENE BARBOSA",
+        "situation": "Ativo",
+        "role": "CONSELHEIRO TUTELAR",
+        "type": "STP - Servidor tempor\u00e1rio",
+        "date": "MAR\u00c7O",
+        "workload": "40",
+        "paymentType": "Mensal",
+        "wage": "1.256,68"
+    },
+    {
+        "name": "MARILEA DE CARVALHO DINIZ",
+        "situation": "Ativo",
+        "role": "PROF.1 A 4 ENS.FUND",
+        "type": "CEF - Efetivo",
+        "date": "MAR\u00c7O",
+        "workload": "24",
+        "paymentType": "Mensal",
+        "wage": "4.621,28"
+    },
+    {
+        "name": "MARILENE AMARAL NOGUEIRA",
+        "situation": "Ativo",
+        "role": "PROF.1 A 4 ENS.FUND",
+        "type": "CEF - Efetivo",
+        "date": "MAR\u00c7O",
+        "workload": "24",
+        "paymentType": "Mensal",
+        "wage": "3.574,29"
+    },
+    {
+        "name": "MARILIA ANDRADE CARVALHO",
+        "situation": "Ativo",
+        "role": "PROF.1 A 4 ENS.FUND",
+        "type": "CEF - Efetivo",
+        "date": "MAR\u00c7O",
+        "workload": "24",
+        "paymentType": "Mensal",
+        "wage": "4.720,97"
+    },
+    {
+        "name": "MARLI APARECIDA DE SIQUEIRA NOGUEIRA",
+        "situation": "Ativo",
+        "role": "AUXILIAR DE DENTISTA",
+        "type": "CEF - Efetivo",
+        "date": "MAR\u00c7O",
+        "workload": "40",
+        "paymentType": "Mensal",
+        "wage": "1.948,56"
+    },
+    {
+        "name": "MARLUCE APARECIDA SIQUEIRA NOGUEIRA",
+        "situation": "Ativo",
+        "role": "SECRETARIO(A)",
+        "type": "STP - Servidor tempor\u00e1rio",
+        "date": "MAR\u00c7O",
+        "workload": "40",
+        "paymentType": "Mensal",
+        "wage": "2.135,38"
+    },
+    {
+        "name": "MARLY LEITE MORAES",
+        "situation": "Ativo",
+        "role": "SERVENTE ESCOLAR",
+        "type": "STP - Servidor tempor\u00e1rio",
+        "date": "MAR\u00c7O",
+        "workload": "30",
+        "paymentType": "Mensal",
+        "wage": "1.434,60"
+    },
+    {
+        "name": "MARY HELEN APARECIDA ALCANTARA",
+        "situation": "Ativo",
+        "role": "PROF.1 A 4 ENS.FUND",
+        "type": "STP - Servidor tempor\u00e1rio",
+        "date": "MAR\u00c7O",
+        "workload": "24",
+        "paymentType": "Mensal",
+        "wage": "3.095,18"
+    },
+    {
+        "name": "MAURILIO MACIEL",
+        "situation": "Ativo",
+        "role": "ENCARREGADO DE OBRAS I",
+        "type": "CEF - Efetivo",
+        "date": "MAR\u00c7O",
+        "workload": "40",
+        "paymentType": "Mensal",
+        "wage": "4.988,67"
+    },
+    {
+        "name": "MAURO CESAR DA SILVA",
+        "situation": "Ativo",
+        "role": "CONDUTOR DE AMBULANCIA",
+        "type": "CEF - Efetivo",
+        "date": "MAR\u00c7O",
+        "workload": "40",
+        "paymentType": "Mensal",
+        "wage": "3.148,60"
+    },
+    {
+        "name": "MIGUEL LUIZ DA SILVA",
+        "situation": "Ativo",
+        "role": "SERVENTE",
+        "type": "STP - Servidor tempor\u00e1rio",
+        "date": "MAR\u00c7O",
+        "workload": "40",
+        "paymentType": "Mensal",
+        "wage": "1.306,10"
+    },
+    {
+        "name": "MILENE NASCIMENTO DA SILVA BRANDAO",
+        "situation": "Ativo",
+        "role": "PROF.1 A 4 ENS.FUND",
+        "type": "CEF - Efetivo",
+        "date": "MAR\u00c7O",
+        "workload": "24",
+        "paymentType": "Mensal",
+        "wage": "3.965,77"
+    },
+    {
+        "name": "MONIQUE ARNAUT IDALGINO",
+        "situation": "Ativo",
+        "role": "AGENTE COMUNITARIO DE SAUDE",
+        "type": "STP - Servidor tempor\u00e1rio",
+        "date": "MAR\u00c7O",
+        "workload": "40",
+        "paymentType": "Mensal",
+        "wage": "2.586,31"
+    },
+    {
+        "name": "NATALY CARVALHO DINIZ",
+        "situation": "Ativo",
+        "role": "ENFERMEIRO",
+        "type": "CEF - Efetivo",
+        "date": "MAR\u00c7O",
+        "workload": "40",
+        "paymentType": "Mensal",
+        "wage": "6.818,64"
+    },
+    {
+        "name": "NEUZA MACIEL DE ANDRADE",
+        "situation": "Ativo",
+        "role": "CONDUTOR DE AMBULANCIA",
+        "type": "CEF - Efetivo",
+        "date": "MAR\u00c7O",
+        "workload": "40",
+        "paymentType": "Mensal",
+        "wage": "4.396,39"
+    },
+    {
+        "name": "NILCEIA DE OLIVEIRA",
+        "situation": "Ativo",
+        "role": "SERVENTE ESCOLAR",
+        "type": "STP - Servidor tempor\u00e1rio",
+        "date": "MAR\u00c7O",
+        "workload": "30",
+        "paymentType": "Mensal",
+        "wage": "1.306,10"
+    },
+    {
+        "name": "NILVO CEZAR ABRAHAO",
+        "situation": "Ativo",
+        "role": "SERVENTE",
+        "type": "CEF - Efetivo",
+        "date": "MAR\u00c7O",
+        "workload": "40",
+        "paymentType": "Mensal",
+        "wage": "2.418,97"
+    },
+    {
+        "name": "NOEMIA TRINDADE DE ANDRADE",
+        "situation": "Ativo",
+        "role": "PROF.1 A 4 ENS.FUND",
+        "type": "STP - Servidor tempor\u00e1rio",
+        "date": "MAR\u00c7O",
+        "workload": "24",
+        "paymentType": "Mensal",
+        "wage": "3.566,66"
+    },
+    {
+        "name": "NUBIA DE FATIMA DA SILVA ARNAUT",
+        "situation": "Ativo",
+        "role": "CONSELHEIRO TUTELAR",
+        "type": "STP - Servidor tempor\u00e1rio",
+        "date": "MAR\u00c7O",
+        "workload": "40",
+        "paymentType": "Mensal",
+        "wage": "1.256,68"
+    },
+    {
+        "name": "ODAIR JOSE RAMOS DE SOUZA",
+        "situation": "Ativo",
+        "role": "COVEIRO",
+        "type": "STP - Servidor tempor\u00e1rio",
+        "date": "MAR\u00c7O",
+        "workload": "40",
+        "paymentType": "Mensal",
+        "wage": "2.245,22"
+    },
+    {
+        "name": "ODETE DE ANDRADE DINIZ",
+        "situation": "Inativo/Reformado",
+        "role": "APOSENTADO",
+        "type": "CEF - Efetivo",
+        "date": "MAR\u00c7O",
+        "workload": "0",
+        "paymentType": "Mensal",
+        "wage": "1.408,46"
+    },
+    {
+        "name": "OLAVO DANT ELIAS",
+        "situation": "Ativo",
+        "role": "SERVENTE",
+        "type": "CEF - Efetivo",
+        "date": "MAR\u00c7O",
+        "workload": "40",
+        "paymentType": "Mensal",
+        "wage": "2.289,63"
+    },
+    {
+        "name": "PABLO GRACIANO DE ANDRADE",
+        "situation": "Ativo",
+        "role": "SERVENTE",
+        "type": "CEF - Efetivo",
+        "date": "MAR\u00c7O",
+        "workload": "40",
+        "paymentType": "Mensal",
+        "wage": "1.820,00"
+    },
+    {
+        "name": "PAMELA PATRIAT DA SILVA",
+        "situation": "Ativo",
+        "role": "PROF.1 A 4 ENS.FUND",
+        "type": "STP - Servidor tempor\u00e1rio",
+        "date": "MAR\u00c7O",
+        "workload": "24",
+        "paymentType": "Mensal",
+        "wage": "3.151,43"
+    },
+    {
+        "name": "PATRICIA CRISTINA DA SILVA",
+        "situation": "Ativo",
+        "role": "PROF.1 A 4 ENS.FUND",
+        "type": "CEF - Efetivo",
+        "date": "MAR\u00c7O",
+        "workload": "24",
+        "paymentType": "Mensal",
+        "wage": "4.086,11"
+    },
+    {
+        "name": "PATRICIA DE ALCANTARA DINIZ",
+        "situation": "Ativo",
+        "role": "PROF.1 A 4 ENS.FUND",
+        "type": "CEF - Efetivo",
+        "date": "MAR\u00c7O",
+        "workload": "24",
+        "paymentType": "Mensal",
+        "wage": "4.621,28"
+    },
+    {
+        "name": "PAULO ANDRADE DA CUNHA",
+        "situation": "Ativo",
+        "role": "VICE-PREFEITO",
+        "type": "APO - Agente pol\u00edtico",
+        "date": "MAR\u00c7O",
+        "workload": "40",
+        "paymentType": "Mensal",
+        "wage": "4.171,38"
+    },
+    {
+        "name": "PEDRO JOAQUIM DO AMARAL",
+        "situation": "Ativo",
+        "role": "PEDREIRO",
+        "type": "CEF - Efetivo",
+        "date": "MAR\u00c7O",
+        "workload": "40",
+        "paymentType": "Mensal",
+        "wage": "1.316,91"
+    },
+    {
+        "name": "PERIVALDO DE CARVALHO REZENDE",
+        "situation": "Ativo",
+        "role": "OPERADOR RETRO ESCAV",
+        "type": "CEF - Efetivo",
+        "date": "MAR\u00c7O",
+        "workload": "40",
+        "paymentType": "Mensal",
+        "wage": "2.645,25"
+    },
+    {
+        "name": "PRICILA MACIEL DE SOUZA",
+        "situation": "Ativo",
+        "role": "MONITOR DE TRANSPORTE ESCOLAR",
+        "type": "STP - Servidor tempor\u00e1rio",
+        "date": "MAR\u00c7O",
+        "workload": "40",
+        "paymentType": "Mensal",
+        "wage": "1.306,10"
+    },
+    {
+        "name": "REGIANE APARECIDA DE OLIVEIRA",
+        "situation": "Ativo",
+        "role": "AJUDANTE ESCOLAR",
+        "type": "STP - Servidor tempor\u00e1rio",
+        "date": "MAR\u00c7O",
+        "workload": "24",
+        "paymentType": "Mensal",
+        "wage": "1.306,10"
+    },
+    {
+        "name": "RENATA ANDRADE DE PAULA",
+        "situation": "Ativo",
+        "role": "SECRETARIO(A)",
+        "type": "CEF - Efetivo",
+        "date": "MAR\u00c7O",
+        "workload": "24",
+        "paymentType": "Mensal",
+        "wage": "2.086,90"
+    },
+    {
+        "name": "RENATA DE SOUZA DA SILVA",
+        "situation": "Ativo",
+        "role": "AGENTE COMUNITARIO DE SAUDE",
+        "type": "STP - Servidor tempor\u00e1rio",
+        "date": "MAR\u00c7O",
+        "workload": "40",
+        "paymentType": "Mensal",
+        "wage": "2.586,31"
+    },
+    {
+        "name": "RENATO LEOPOLDINO",
+        "situation": "Ativo",
+        "role": "SERVENTE",
+        "type": "CEF - Efetivo",
+        "date": "MAR\u00c7O",
+        "workload": "30",
+        "paymentType": "Mensal",
+        "wage": "2.077,06"
+    },
+    {
+        "name": "RIVAM DA SILVA CAMPOS",
+        "situation": "Ativo",
+        "role": "AGENTE COMUNITARIO DE SAUDE",
+        "type": "STP - Servidor tempor\u00e1rio",
+        "date": "MAR\u00c7O",
+        "workload": "40",
+        "paymentType": "Mensal",
+        "wage": "2.586,31"
+    },
+    {
+        "name": "ROBERTO BENFICA LADEIRA",
+        "situation": "Ativo",
+        "role": "PEDREIRO",
+        "type": "CEF - Efetivo",
+        "date": "MAR\u00c7O",
+        "workload": "40",
+        "paymentType": "Mensal",
+        "wage": "2.019,12"
+    },
+    {
+        "name": "ROBERTO SIQUEIRA DA SILVA",
+        "situation": "Ativo",
+        "role": "MOTORISTA",
+        "type": "STP - Servidor tempor\u00e1rio",
+        "date": "MAR\u00c7O",
+        "workload": "40",
+        "paymentType": "Mensal",
+        "wage": "2.645,25"
+    },
+    {
+        "name": "ROMULO JOSE DINIZ CAMPOS",
+        "situation": "Ativo",
+        "role": "CONDUTOR DE AMBULANCIA",
+        "type": "CEF - Efetivo",
+        "date": "MAR\u00c7O",
+        "workload": "40",
+        "paymentType": "Mensal",
+        "wage": "3.526,31"
+    },
+    {
+        "name": "RONALDO TEODORO DOS SANTOS",
+        "situation": "Ativo",
+        "role": "SECRETARIO MUNICIPAL DE TURISMO E CULTURA",
+        "type": "CRR - Comissionado de recrutamento restrito",
+        "date": "MAR\u00c7O",
+        "workload": "40",
+        "paymentType": "Mensal",
+        "wage": "2.764,35"
+    },
+    {
+        "name": "ROSIANE SILVA CARVALHO",
+        "situation": "Ativo",
+        "role": "ODONTOLOGO",
+        "type": "CEF - Efetivo",
+        "date": "MAR\u00c7O",
+        "workload": "32",
+        "paymentType": "Mensal",
+        "wage": "4.595,15"
+    },
+    {
+        "name": "ROSIMAR DE PAULA DA SILVA ARANTES",
+        "situation": "Ativo",
+        "role": "PROF.1 A 4 ENS.FUND",
+        "type": "CEF - Efetivo",
+        "date": "MAR\u00c7O",
+        "workload": "24",
+        "paymentType": "Mensal",
+        "wage": "4.564,67"
+    },
+    {
+        "name": "ROZANA ELIZABETH DINIZ LUCCHESI",
+        "situation": "Ativo",
+        "role": "DIRETOR ESCOLAR",
+        "type": "CEF - Efetivo",
+        "date": "MAR\u00c7O",
+        "workload": "24",
+        "paymentType": "Mensal",
+        "wage": "2.961,23"
+    },
+    {
+        "name": "SALVADOR DINIZ",
+        "situation": "Ativo",
+        "role": "ENCANADOR",
+        "type": "CEF - Efetivo",
+        "date": "MAR\u00c7O",
+        "workload": "40",
+        "paymentType": "Mensal",
+        "wage": "2.949,20"
+    },
+    {
+        "name": "SAMANTHA COSTA DINIZ",
+        "situation": "Ativo",
+        "role": "FISCAL DE TRIBUTACAO MUNICIPAL",
+        "type": "CEF - Efetivo",
+        "date": "MAR\u00c7O",
+        "workload": "40",
+        "paymentType": "Mensal",
+        "wage": "3.307,17"
+    },
+    {
+        "name": "SAMUEL DE ASSIS FIDELIS",
+        "situation": "Ativo",
+        "role": "TRATORISTA",
+        "type": "CEF - Efetivo",
+        "date": "MAR\u00c7O",
+        "workload": "40",
+        "paymentType": "Mensal",
+        "wage": "1.315,22"
+    },
+    {
+        "name": "SAVIO MACIEL",
+        "situation": "Ativo",
+        "role": "MEDICO CLINICO GERAL",
+        "type": "CEF - Efetivo",
+        "date": "MAR\u00c7O",
+        "workload": "16",
+        "paymentType": "Mensal",
+        "wage": "7.969,80"
+    },
+    {
+        "name": "SEBASTIAO ANTONIO DO NASCIMENTO",
+        "situation": "Ativo",
+        "role": "PEDREIRO",
+        "type": "CEF - Efetivo",
+        "date": "MAR\u00c7O",
+        "workload": "40",
+        "paymentType": "Mensal",
+        "wage": "18.317,91"
+    },
+    {
+        "name": "SILVIA HELENA MARTINS",
+        "situation": "Ativo",
+        "role": "GESTOR DE SAUDE",
+        "type": "CRR - Comissionado de recrutamento restrito",
+        "date": "MAR\u00c7O",
+        "workload": "40",
+        "paymentType": "Mensal",
+        "wage": "5.612,23"
+    },
+    {
+        "name": "SINTIA APARECIDA CARDOSO VIRGILIO",
+        "situation": "Ativo",
+        "role": "SERV. GERAIS",
+        "type": "CEF - Efetivo",
+        "date": "MAR\u00c7O",
+        "workload": "40",
+        "paymentType": "Mensal",
+        "wage": "1.107,81"
+    },
+    {
+        "name": "SOLANGE LADEIRA DA SILVA",
+        "situation": "Ativo",
+        "role": "SERVENTE ESCOLAR",
+        "type": "CEF - Efetivo",
+        "date": "MAR\u00c7O",
+        "workload": "30",
+        "paymentType": "Mensal",
+        "wage": "1.628,89"
+    },
+    {
+        "name": "STEPHANE PERADELES DE JESUS",
+        "situation": "Ativo",
+        "role": "PROF.1 A 4 ENS.FUND",
+        "type": "STP - Servidor tempor\u00e1rio",
+        "date": "MAR\u00c7O",
+        "workload": "24",
+        "paymentType": "Mensal",
+        "wage": "2.868,23"
+    },
+    {
+        "name": "SUELI ANDRADE MACIEL",
+        "situation": "Ativo",
+        "role": "PROF.1 A 4 ENS.FUND",
+        "type": "STP - Servidor tempor\u00e1rio",
+        "date": "MAR\u00c7O",
+        "workload": "24",
+        "paymentType": "Mensal",
+        "wage": "1.418,23"
+    },
+    {
+        "name": "SUZANA NOGUEIRA DINIZ",
+        "situation": "Ativo",
+        "role": "PROF.1 A 4 ENS.FUND",
+        "type": "STP - Servidor tempor\u00e1rio",
+        "date": "MAR\u00c7O",
+        "workload": "24",
+        "paymentType": "Mensal",
+        "wage": "3.446,35"
+    },
+    {
+        "name": "SUZANI VILELA LEITE",
+        "situation": "Ativo",
+        "role": "TEC.EM ENFERMAGEM",
+        "type": "STP - Servidor tempor\u00e1rio",
+        "date": "MAR\u00c7O",
+        "workload": "40",
+        "paymentType": "Mensal",
+        "wage": "3.074,99"
+    },
+    {
+        "name": "TAINAN DA COSTA MESSIAS",
+        "situation": "Ativo",
+        "role": "MOTORISTA",
+        "type": "CEF - Efetivo",
+        "date": "MAR\u00c7O",
+        "workload": "40",
+        "paymentType": "Mensal",
+        "wage": "2.953,45"
+    },
+    {
+        "name": "TAMIRIA NOGUEIRA DE MELO",
+        "situation": "Ativo",
+        "role": "SECRETARIO(A)",
+        "type": "STP - Servidor tempor\u00e1rio",
+        "date": "MAR\u00c7O",
+        "workload": "40",
+        "paymentType": "Mensal",
+        "wage": "1.710,82"
+    },
+    {
+        "name": "TARCISIO PEREIRA IDALGINO",
+        "situation": "Ativo",
+        "role": "MOTORISTA",
+        "type": "CEF - Efetivo",
+        "date": "MAR\u00c7O",
+        "workload": "40",
+        "paymentType": "Mensal",
+        "wage": "3.908,28"
+    },
+    {
+        "name": "TATIANA BASTOS DA SILVA SANTOS",
+        "situation": "Ativo",
+        "role": "PROF.1 A 4 ENS.FUND",
+        "type": "CEF - Efetivo",
+        "date": "MAR\u00c7O",
+        "workload": "24",
+        "paymentType": "Mensal",
+        "wage": "4.427,41"
+    },
+    {
+        "name": "TERESINHA DE PAIVA",
+        "situation": "Ativo",
+        "role": "SERVENTE ESCOLAR",
+        "type": "CEF - Efetivo",
+        "date": "MAR\u00c7O",
+        "workload": "30",
+        "paymentType": "Mensal",
+        "wage": "1.310,88"
+    },
+    {
+        "name": "THIAGO DE OLIVEIRA NUNES",
+        "situation": "Ativo",
+        "role": "ASSESSOR DE GABINETE",
+        "type": "CRA - Comissionado de recrutamento amplo",
+        "date": "MAR\u00c7O",
+        "workload": "40",
+        "paymentType": "Mensal",
+        "wage": "9.478,54"
+    },
+    {
+        "name": "VALDINEIA DA SILVA CARVALHO",
+        "situation": "Ativo",
+        "role": "SERV. GERAIS",
+        "type": "CEF - Efetivo",
+        "date": "MAR\u00c7O",
+        "workload": "40",
+        "paymentType": "Mensal",
+        "wage": "1.368,14"
+    },
+    {
+        "name": "VALDIR GOMES DOS SANTOS",
+        "situation": "Ativo",
+        "role": "ENCANADOR",
+        "type": "CEF - Efetivo",
+        "date": "MAR\u00c7O",
+        "workload": "40",
+        "paymentType": "Mensal",
+        "wage": "2.291,76"
+    },
+    {
+        "name": "VALERIA CARVALHO SARAIVA",
+        "situation": "Ativo",
+        "role": "FISIOTERAPEUTA",
+        "type": "CEF - Efetivo",
+        "date": "MAR\u00c7O",
+        "workload": "30",
+        "paymentType": "Mensal",
+        "wage": "5.113,50"
+    },
+    {
+        "name": "VALMIR SIQUEIRA DA SILVA",
+        "situation": "Ativo",
+        "role": "PREFEITO",
+        "type": "APO - Agente pol\u00edtico",
+        "date": "MAR\u00c7O",
+        "workload": "40",
+        "paymentType": "Mensal",
+        "wage": "9.006,53"
+    },
+    {
+        "name": "VANESSA DOMINGUES RIBEIRO",
+        "situation": "Ativo",
+        "role": "SECRETARIO(A)",
+        "type": "STP - Servidor tempor\u00e1rio",
+        "date": "MAR\u00c7O",
+        "workload": "40",
+        "paymentType": "Mensal",
+        "wage": "1.648,78"
+    },
+    {
+        "name": "VANTUIR DOS REIS BARCELOS",
+        "situation": "Ativo",
+        "role": "ENC. CLUBE MUNICIPAL",
+        "type": "CEF - Efetivo",
+        "date": "MAR\u00c7O",
+        "workload": "40",
+        "paymentType": "Mensal",
+        "wage": "2.949,20"
+    },
+    {
+        "name": "WANDERLEY DE ANDRADE",
+        "situation": "Ativo",
+        "role": "SERVENTE",
+        "type": "CEF - Efetivo",
+        "date": "MAR\u00c7O",
+        "workload": "40",
+        "paymentType": "Mensal",
+        "wage": "1.272,55"
+    },
+    {
+        "name": "WESLEY ANTONIO DA SILVA CORREA",
+        "situation": "Ativo",
+        "role": "AGENTE COMUNITARIO DE SAUDE",
+        "type": "STP - Servidor tempor\u00e1rio",
+        "date": "MAR\u00c7O",
+        "workload": "40",
+        "paymentType": "Mensal",
+        "wage": "2.586,31"
+    },
+    {
+        "name": "WILLIAN DOS SANTOS DE ANDRADE",
+        "situation": "Ativo",
+        "role": "MOTORISTA",
+        "type": "CRA - Comissionado de recrutamento amplo",
+        "date": "MAR\u00c7O",
+        "workload": "40",
+        "paymentType": "Mensal",
+        "wage": "2.752,93"
+    }
+]
