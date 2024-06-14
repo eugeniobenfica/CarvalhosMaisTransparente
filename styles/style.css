@@ -7,12 +7,12 @@
 
 @font-face {
     font-family: Dosis;
-    src: url(/assets/fonts/Dosis-Medium.ttf);
+    src: url(assets/fonts/Dosis-Medium.ttf);
 }
 
 @font-face {
     font-family: Montserrat;
-    src: url(/assets/fonts/Montserrat-Medium.ttf);
+    src: url(assets/fonts/Montserrat-Medium.ttf);
 }
 
 * {
