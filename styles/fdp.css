@@ -2,6 +2,7 @@
 
 main {
     margin-top: 7rem;
+    text-align: center;
 }
 
 #payments {
@@ -101,6 +102,7 @@ main {
 }
 
 #details__atributes {
+    font-family: Montserrat;
     display: flex;
     flex-direction: column;
     width: 700px;
@@ -123,4 +125,10 @@ main {
     width: 46.5%;
     border-bottom: 2px solid;
     padding: 10px;
+}
+
+@media screen and (max-width: 700px) {
+    #details__atributes {
+        width: 95vw;
+    }
 }
