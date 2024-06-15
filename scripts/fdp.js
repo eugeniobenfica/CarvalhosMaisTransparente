@@ -66,4 +66,4 @@ function showDetails(data) {
     });
 }
 
-loadJSON('/database/payroll/fdp-MARÇO.json');
+loadJSON('database/payroll/fdp-MARÇO.json');
